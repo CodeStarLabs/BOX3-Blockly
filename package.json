@@ -1,0 +1,11 @@
+{
+  "name": "blockly",
+  "version": "1.0.0",
+  "description": "the Box3 Blockly",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
